@@ -4,7 +4,7 @@ int a = 10;
 System.out.println(  --a + a --  + a-);
 System.out.println(a);
 
-Output -->   18 & a=7
+Output -->   26 & a=7
 
 Q3
 int a = 10;
