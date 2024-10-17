@@ -1,0 +1,11 @@
+(i)  A class is a template or blueprint that defines the properties and behavior of objects.
+
+An object is an instance of a class, meaning it has actual values for the properties defined in the class
+
+(ii)  A class is a logical entity, while an object is a physical entity.
+
+(iii) Class is declared once, object can be created many times
+
+(iv)An object can call the methods defined in the class to perform specific tasks.
+
+(v)No memory is allocated when a class is declared, but memory is allocated when an object is created.

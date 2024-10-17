@@ -1,0 +1,12 @@
+Encapsulation:
+Definition: Encapsulation is the concept of wrapping data (attributes) and methods (functions) together into a single unit, or class.
+
+
+Inheritance:
+Definition: Inheritance allows one class to acquire the properties and behaviors (methods) of another class. The class that is inherited is called the parent (or superclass), and the class that inherits is called the child (or subclass).
+
+Polymorphism
+Definition: Polymorphism allows objects to be treated as instances of their parent class, allowing a single action to behave differently based on the object that invokes it. It can be method overriding (run-time polymorphism) or method overloading (compile-time polymorphism).
+
+Definition: Abstraction is the concept of hiding the complex implementation details of a system and showing only the essential features. It can be achieved using abstract classes and interfaces.
+
