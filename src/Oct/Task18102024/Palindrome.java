@@ -2,6 +2,8 @@ package Oct.Task18102024;
 
 import java.util.Scanner;
 
+//palindrome string
+
 public class Palindrome {
 
     public static void main(String[] args) {
@@ -20,7 +22,7 @@ public class Palindrome {
 
         char[] charArray = str.toCharArray();
 
-        for (int i = charArray.length - 1; i >= 0; i--) {// Start from length - 1
+        for (int i = charArray.length - 1; i >= 0; i--) {// Start from length --- 1
             revstr += charArray[i];
         }
 

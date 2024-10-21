@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class StringLenth {
 
+    //String lenth
+
     String str;
 
     public static void main(String[] args) {

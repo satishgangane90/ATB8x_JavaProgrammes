@@ -2,6 +2,9 @@ package Oct.Task18102024;
 
 import java.util.Scanner;
 
+//reverse string
+
+
 public class ReverseString {
 
     public static void main(String[] args) {
